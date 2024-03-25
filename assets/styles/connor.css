@@ -167,22 +167,29 @@
     font-size: var(--heading);
     color: var(--primary-Color);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* faqf013287cc03d37647 */
+.faqf013287cc03d37647 .faq-section {
+    padding: 0vh 0 0;
+}
+.faqf013287cc03d37647 .faq-title h2{
+    font-size: var(--heading);
+}
+.faqf013287cc03d37647 .faq .card .card-header .faq-title .badge{
+    background: var(--primary-Color);
+}
+.faqf013287cc03d37647 .faq .card .card-header .faq-title{
+    color: var(--black-Color);
+}
+.faqf013287cc03d37647{
+    padding-bottom: 7em;
+}
+/* footftkxsoham8f */
+.footftkxsoham8f{
+    padding: 15px 0;
+}
+.footftkxsoham8f strong {
+    font-weight: 500 !important;
+}
+.footftkxsoham8f a{
+    color: var(--black-Color);
+}
