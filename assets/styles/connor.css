@@ -112,12 +112,29 @@
     font-size: var(--heading-two);
     margin-top: 15px;
 }
-
-
-
-
-
-
+.frankiepo48kr6e3hi strong {
+    font-weight: var(--button-font-weight);
+}
+/* workw8b69b68110aa8e40 */
+.workw8b69b68110aa8e40{
+    padding-bottom: 7em;
+}
+.workw8b69b68110aa8e40 .badge{
+    display: none;
+}
+.workw8b69b68110aa8e40 .lead {
+    font-size: var(--heading);
+}
+.workw8b69b68110aa8e40 .btn-outline-success{
+    padding: var(--button-padding) !important;
+    border-color: var(--primary-Color);
+    color: var(--black-Color);
+}
+.workw8b69b68110aa8e40 .btn-outline-success:hover,
+.workw8b69b68110aa8e40 .btn-outline-success:not(:disabled):not(.disabled):active{
+    background-color: var(--primary-Color);
+    border-color: var(--primary-Color);
+}
 
 
 
