@@ -135,21 +135,38 @@
     background-color: var(--primary-Color);
     border-color: var(--primary-Color);
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+/* aboutp3dce575962b3c369 */
+.aboutp3dce575962b3c369{
+    display: none;
+}
+/* aboutp3dce575962b3c369 */
+.testimonialprqwl7a4x8r .fdb-block {
+    padding: 0px 0;
+    padding-bottom: 7em;
+}
+.testimonialprqwl7a4x8r h1 {
+    font-size: var(--heading);
+}
+.testimonialprqwl7a4x8r .mt-5{
+    margin-top: 1rem !important;
+}
+.testimonialprqwl7a4x8r .h4{
+    font-size: 18px;
+}
+@media (min-width: 1200px){
+    .testimonialprqwl7a4x8r .mt-xl-5{
+        margin-top: 2rem !important;
+    }
+    
+}
+/* counteraf598102c9dad94e */
+.counteraf598102c9dad94e{
+    padding-bottom: 7em;
+}
+.counteraf598102c9dad94e h2 {
+    font-size: var(--heading);
+    color: var(--primary-Color);
+}
 
 
 
