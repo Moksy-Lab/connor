@@ -1,0 +1,124 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap");
+
+.fdb-block {
+    padding: 30px 0;
+}
+
+* {
+    font-family: "Poppins", sans-serif;
+}
+
+:root {
+    --primary-Color: #3ABBA7;
+    --secondary-Color: #ff1f59;
+    --text-Color: #062E5F;
+    --alert-Color: #0099ff;
+    --success-Color: #8BE0DD;
+    --warning-Color: #EE8800;
+    --error-Color: #FE514C;
+    --grey-Color: #7A7A7A;
+    --black-Color: #232323;
+    --main-Background-Color: #FFFFFF;
+    --secondary-Background-Color:#052D5F;
+    --secondary-Font: "Montserrat", sans-serif;
+    --button-padding: 10px 15px;
+    --button-border-radius: 6px;
+    --button-font-weight: 500;
+    --heading: 35px;
+    --heading-two: 25px;
+}
+/* headere871d461930b46f7 */
+.headere871d461930b46f7 .navbar-light .navbar-nav .nav-link {
+    font-weight: var(--button-font-weight);
+    color: var(--black-Color);
+}
+.headere871d461930b46f7 .navbar-light .navbar-nav .nav-link:hover{
+    color: var(--primary-Color);
+}
+.headere871d461930b46f7 .btnregister {
+    background-color: var(--warning-Color);
+    border-radius: var(--button-border-radius);
+    padding: var(--button-padding);
+    color: var(--main-Background-Color);
+}
+/* aboutb90ffb8dc999187d */
+.aboutb90ffb8dc999187d .sec-title1 .title1{
+    display: none;
+}
+.aboutb90ffb8dc999187d .sec-title1 h2{
+    font-size: 45px;
+    color: var(--black-Color);
+    text-decoration: underline;
+    text-underline-offset: 8px;
+}
+.aboutb90ffb8dc999187d .sec-title1 h2:before{
+    display: none;
+}
+.aboutb90ffb8dc999187d .btn-style-one1{
+    font-size: 16px;
+    border: 2px solid var(--primary-Color);
+    opacity: 1;
+    color: var(--main-Background-Color);
+    font-weight: var(--button-font-weight);
+    background-color: var(--primary-Color);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
