@@ -170,6 +170,7 @@
 /* faqf013287cc03d37647 */
 .faqf013287cc03d37647 .faq-section {
     padding: 0vh 0 0;
+    min-height: 75vh;
 }
 .faqf013287cc03d37647 .faq-title h2{
     font-size: var(--heading);
