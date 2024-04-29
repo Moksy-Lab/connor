@@ -73,11 +73,16 @@
 .aboutb90ffb8dc999187d .about-section1 .texte1{
     margin-bottom: 30px;
     font-size: var(--paragraph);
+    padding: var(--section-padding);
+    margin-bottom: 0px;
 }
 /* fulbf5e57dc82a907a3 */
+.fulbf5e57dc82a907a3{
+    padding: var(--section-padding);
+}
 .fulbf5e57dc82a907a3 .fdb-block{
     padding: 0rem 0;
-    padding-bottom: 7em;
+    padding-bottom: 0em;
 }
 .fulbf5e57dc82a907a3 h1 {
     font-size: var(--heading-large);
@@ -94,7 +99,7 @@
 }
 /* aboutbf5e9e9e7ee746db */
 .aboutbf5e9e9e7ee746db{
-    padding-bottom: 7em;
+   padding: var(--section-padding);
 }
 .aboutbf5e9e9e7ee746db .DescriptionHeading{
     font-size: var(--heading-large);
@@ -107,9 +112,12 @@
     font-weight: var(--button-font-weight) !important;
 }
 /* frankiepo48kr6e3hi */
+.frankiepo48kr6e3hi{
+    padding: var(--section-padding);
+}
 .frankiepo48kr6e3hi .fdb-block {
     padding: 0px 0;
-    padding-bottom: 7em;
+    padding-bottom: 0em;
 }
 .frankiepo48kr6e3hi h1 {
     font-size: var(--heading-large);
@@ -152,9 +160,12 @@
     display: none;
 }
 /* aboutp3dce575962b3c369 */
+.testimonialprqwl7a4x8r{
+    padding: var(--section-padding);
+}
 .testimonialprqwl7a4x8r .fdb-block {
     padding: 0px 0;
-    padding-bottom: 7em;
+    padding-bottom: 0em;
 }
 .testimonialprqwl7a4x8r h1 {
     font-size: var(--heading-large);
@@ -169,11 +180,13 @@
     .testimonialprqwl7a4x8r .mt-xl-5{
         margin-top: 2rem !important;
     }
-    
+    .testimonialprqwl7a4x8r .pb-xl-5{
+        padding-bottom: 1rem !important;
+    }
 }
 /* counteraf598102c9dad94e */
 .counteraf598102c9dad94e{
-    padding-bottom: 7em;
+    padding: var(--section-padding);
 }
 .counteraf598102c9dad94e h2 {
     font-size: var(--heading-large);
