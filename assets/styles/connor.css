@@ -214,6 +214,9 @@
 .faqf013287cc03d37647 .faq .card .card-body p{
     color: var(--grey-Color);
 }
+.faqf013287cc03d37647{
+    padding: var(--section-padding);
+}
 /* footftkxsoham8f */
 .footftkxsoham8f{
     padding: 15px 0;
