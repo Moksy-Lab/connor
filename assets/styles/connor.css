@@ -90,14 +90,14 @@
     font-weight: var(--button-font-weight);
 }
 .fulbf5e57dc82a907a3 p {
-    font-size: var();
+    font-size: var(--paragraph);
 }
 /* aboutbf5e9e9e7ee746db */
 .aboutbf5e9e9e7ee746db{
     padding-bottom: 7em;
 }
 .aboutbf5e9e9e7ee746db .DescriptionHeading{
-    font-size: var(--heading);
+    font-size: var(--heading-large);
     color: var(--button-border-radius);
 }
 .aboutbf5e9e9e7ee746db .searchBtn{
@@ -112,15 +112,16 @@
     padding-bottom: 7em;
 }
 .frankiepo48kr6e3hi h1 {
-    font-size: var(--heading);
+    font-size: var(--heading-large);
 }
 .frankiepo48kr6e3hi a,
 .frankiepo48kr6e3hi a:hover{
     font-weight: var(--button-font-weight);
     color: var(--error-Color);
+    font-size: var(--paragraph);
 }
 .frankiepo48kr6e3hi h3 {
-    font-size: var(--heading-two);
+    font-size: var(--paragraph);
     margin-top: 15px;
 }
 .frankiepo48kr6e3hi strong {
@@ -156,13 +157,13 @@
     padding-bottom: 7em;
 }
 .testimonialprqwl7a4x8r h1 {
-    font-size: var(--heading);
+    font-size: var(--heading-large);
 }
 .testimonialprqwl7a4x8r .mt-5{
     margin-top: 1rem !important;
 }
 .testimonialprqwl7a4x8r .h4{
-    font-size: 18px;
+    font-size: var(--paragraph);
 }
 @media (min-width: 1200px){
     .testimonialprqwl7a4x8r .mt-xl-5{
@@ -175,8 +176,12 @@
     padding-bottom: 7em;
 }
 .counteraf598102c9dad94e h2 {
-    font-size: var(--heading);
+    font-size: var(--heading-large);
     color: var(--primary-Color);
+}
+.counteraf598102c9dad94e h4{
+    font-size: var(--heading-medium);
+    color: var(--grey-Color);
 }
 /* faqf013287cc03d37647 */
 .faqf013287cc03d37647 .faq-section {
@@ -184,13 +189,17 @@
     min-height: 75vh;
 }
 .faqf013287cc03d37647 .faq-title h2{
-    font-size: var(--heading);
+    font-size: var(--heading-large);
 }
 .faqf013287cc03d37647 .faq .card .card-header .faq-title .badge{
     background: var(--primary-Color);
 }
 .faqf013287cc03d37647 .faq .card .card-header .faq-title{
     color: var(--black-Color);
+    font-size: var(--paragraph);
+}
+.faqf013287cc03d37647 .faq .card .card-body p{
+    color: var(--grey-Color);
 }
 /* footftkxsoham8f */
 .footftkxsoham8f{
@@ -201,4 +210,7 @@
 }
 .footftkxsoham8f a{
     color: var(--black-Color);
+}
+.footftkxsoham8f h3{
+    font-size: var(--heading-medium);
 }
