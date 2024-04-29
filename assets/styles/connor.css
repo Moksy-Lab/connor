@@ -48,6 +48,10 @@
 .headere871d461930b46f7 .font-weight-bold {
     font-weight: var(--button-font-weight) !important;
 }
+.headere871d461930b46f7 .logo{
+    max-height: 60px;
+    border-radius: var(--logo-border-radius);
+}
 /* aboutb90ffb8dc999187d */
 .aboutb90ffb8dc999187d .sec-title1 .title1{
     display: none;
